@@ -9,7 +9,7 @@ const MyContextProvider = ({children}) => {
 
     const navigate = useNavigate()
 
-    const url = 'https://vitecodetech-backend.onrender.com'
+    const url = 'https://vitecodetechnologies-backend.onrender.com'
 
     // Service Data Fetching
 
