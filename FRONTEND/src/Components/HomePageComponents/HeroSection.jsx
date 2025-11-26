@@ -37,7 +37,7 @@ const HeroSection = () => {
         {/* Left Side: Headline & Text */}
         <div className='lg:ps-5'>
           <h1 className="text-5xl lg:block md:block hidden font-extrabold text-gray-900 leading-tight">
-            Empowering Future withhhhhhhhhhhhhh <br />{" "}
+            Empowering Future with <br />{" "}
             <span className="text-blue-600">
               {words[index].substring(0, subIndex)}
             </span>
